@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "AppParqueadero",
+			"path": "../../AppParqueadero"
+		}
+	],
+	"settings": {}
+}
